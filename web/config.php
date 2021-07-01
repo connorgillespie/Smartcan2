@@ -7,8 +7,8 @@ if(!defined("api")){
 }
 
 // MySQL connection settings
-$username = "administrator";
-$password = "vnserver#2020";
-$host = "192.168.1.106";
+$username = "root";
+$password = "password";
+$host = "127.0.0.1";
 $port = "3306";
 $database = "smartcan-v2";
